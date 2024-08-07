@@ -1,0 +1,40 @@
+{
+  "servers": [
+    {
+      "server_name_ph34053": "teo",
+      "id": "2",
+      "image_ph34053": "https://www.maychudell.com.vn/uploadfiles/product/thumbnails/DELL%20POWEREDGE%20R510%20E5620.jpg",
+      "server_ip_ph34053": "1312.313.777",
+      "status_ph34053": 1,
+      "hotline_ph34053": "920482421",
+      "u_number_ph34053": 123
+    },
+    {
+      "server_name_ph34053": "teo",
+      "id": "3",
+      "image_ph34053": "https://www.maychudell.com.vn/uploadfiles/product/thumbnails/DELL%20POWEREDGE%20R510%20E5620.jpg",
+      "server_ip_ph34053": "1312.313.777",
+      "status_ph34053": 1,
+      "hotline_ph34053": "920482421",
+      "u_number_ph34053": 123
+    },
+    {
+      "server_name_ph34053": "teo",
+      "id": "4",
+      "image_ph34053": "https://www.maychudell.com.vn/uploadfiles/product/thumbnails/DELL%20POWEREDGE%20R510%20E5620.jpg",
+      "server_ip_ph34053": "1312.313.777",
+      "status_ph34053": 1,
+      "hotline_ph34053": "920482421",
+      "u_number_ph34053": 1
+    },
+    {
+      "server_name_ph34053": "kha",
+      "id": "5",
+      "image_ph34053": "https://www.maychudell.com.vn/uploadfiles/product/thumbnails/DELL%20POWEREDGE%20R510%20E5620.jpg",
+      "server_ip_ph34053": "1312.313.777",
+      "status_ph34053": 1,
+      "hotline_ph34053": "920482421",
+      "u_number_ph34053": 1
+    }
+  ]
+}
